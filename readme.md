@@ -1,5 +1,8 @@
 #Progreso
 
+Copia el contenido del archivo en tu directorio de GTA.
+
+
 - [ ] MAIN
 - [X] AMBULAE
 - [X] BCESAR2
