@@ -2,7 +2,6 @@
 
 Descarga la carpeta text y pegala en tu directorio de GTA.
 
-
 - [ ] MAIN
 - [X] AMBULAE
 - [X] BCESAR2
@@ -126,6 +125,6 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [ ] WUZI2
 - [ ] WUZI4
 - [ ] ZERO1
-- [ ] ZERO2
+- [X] ZERO2
 - [ ] ZERO3
 - [ ] ZERO4
