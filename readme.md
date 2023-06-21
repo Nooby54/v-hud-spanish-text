@@ -21,7 +21,7 @@ Copia el contenido del archivo en tu directorio de GTA.
 - [X] CASINO5
 - [ ] CASINO6
 - [X] CASINO7
-- [ ] CASINO9
+- [X] CASINO9
 - [ ] CAT
 - [X] CESAR1
 - [ ] CESAR2
