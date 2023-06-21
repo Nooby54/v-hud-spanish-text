@@ -24,10 +24,10 @@ Copia el contenido del archivo en tu directorio de GTA.
 - [X] CASINO9
 - [ ] CAT
 - [X] CESAR1
-- [ ] CESAR2
+- [X] CESAR2
 - [X] COPCAR
 - [ ] CRASH1
-- [ ] CRASH2
+- [X] CRASH2
 - [ ] CRASH3
 - [ ] DOC2
 - [X] DOCKCR
