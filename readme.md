@@ -18,7 +18,7 @@ Copia el contenido del archivo en tu directorio de GTA.
 - [X] CASINO2
 - [X] CASINO3
 - [ ] CASINO4
-- [ ] CASINO5
+- [X] CASINO5
 - [ ] CASINO6
 - [X] CASINO7
 - [ ] CASINO9
