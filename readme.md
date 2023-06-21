@@ -14,7 +14,7 @@ Copia el contenido del archivo en tu directorio de GTA.
 - [X] BS
 - [X] BURGLAR
 - [X] CASIN10
-- [ ] CASINO1
+- [X] CASINO1
 - [ ] CASINO2
 - [X] CASINO3
 - [ ] CASINO4
