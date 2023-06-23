@@ -117,7 +117,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [ ] TORENO1
 - [ ] TRU1
 - [ ] TRU2
-- [ ] TRUCK
+- [X] TRUCK
 - [ ] VALET1
 - [X] VCR1
 - [X] VCR2
