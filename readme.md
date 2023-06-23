@@ -124,7 +124,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [ ] WUZI1
 - [ ] WUZI2
 - [ ] WUZI4
-- [ ] ZERO1
+- [X] ZERO1
 - [X] ZERO2
 - [X] ZERO3
 - [ ] ZERO4
