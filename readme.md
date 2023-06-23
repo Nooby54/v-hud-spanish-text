@@ -99,7 +99,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [X] STRAP4
 - [X] STUNT
 - [X] SWEET1
-- [ ] SWEET1B
+- [X] SWEET1B
 - [ ] SWEET2
 - [ ] SWEET3
 - [ ] SWEET4
