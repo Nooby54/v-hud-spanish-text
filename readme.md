@@ -114,7 +114,8 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [X] SYN6
 - [ ] SYN7
 - [X] TAXI1
-- [ ] TORENO1
+- [X] TORENO1
+- [ ] TORENO2
 - [X] TRU1
 - [ ] TRU2
 - [X] TRUCK
