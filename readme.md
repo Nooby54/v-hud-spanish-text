@@ -120,7 +120,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [ ] TRUCK
 - [ ] VALET1
 - [ ] VCR1
-- [ ] VCR2
+- [X] VCR2
 - [ ] WUZI1
 - [ ] WUZI2
 - [ ] WUZI4
