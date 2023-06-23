@@ -127,4 +127,4 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [X] ZERO1
 - [X] ZERO2
 - [X] ZERO3
-- [ ] ZERO4
+- [X] ZERO4
