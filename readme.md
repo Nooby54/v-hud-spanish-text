@@ -94,7 +94,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [ ] STEAL4
 - [X] STEAL5
 - [ ] STRAP1
-- [ ] STRAP2
+- [X] STRAP2
 - [ ] STRAP3
 - [X] STRAP4
 - [X] STUNT
