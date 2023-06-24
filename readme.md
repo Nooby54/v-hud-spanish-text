@@ -86,7 +86,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [X] SCRASH2
 - [X] SHTR
 - [ ] SMOKE1
-- [ ] SMOKE2
+- [X] SMOKE2
 - [ ] SMOKE3
 - [ ] SMOKE4
 - [X] STEAL1
