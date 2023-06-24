@@ -82,7 +82,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [X] RUN_2P
 - [ ] RYDER1
 - [ ] RYDER2
-- [ ] RYDER3
+- [X] RYDER3
 - [ ] SCRASH2
 - [X] SHTR
 - [ ] SMOKE1
