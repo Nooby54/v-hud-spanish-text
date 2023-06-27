@@ -2,7 +2,7 @@
 
 Descarga la carpeta text y pegala en tu directorio de GTA.
 
-- [ ] MAIN (En progreso 61EE55F5)
+- [ ] MAIN (En progreso A069814D)
 - [X] AMBULAE
 - [X] BCESAR2
 - [X] BCSAR4
