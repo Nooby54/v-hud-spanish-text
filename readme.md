@@ -74,7 +74,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [ ] PIMP
 - [X] POOL
 - [ ] QUARRY
-- [ ] RACETOR
+- [X] RACETOR
 - [ ] RIOT1
 - [ ] RIOT2
 - [X] RIOT3
