@@ -30,7 +30,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [ ] CRASH3
 - [ ] DOC2
 - [X] DOCKCR
-- [ ] DS
+- [X] DS
 - [ ] DSERT10
 - [X] DSERT12
 - [ ] DSERT3
