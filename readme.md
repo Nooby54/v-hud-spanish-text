@@ -27,7 +27,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [X] COPCAR
 - [X] CRASH1
 - [X] CRASH2
-- [ ] CRASH3
+- [X] CRASH3
 - [ ] DOC2
 - [X] DOCKCR
 - [X] DS
