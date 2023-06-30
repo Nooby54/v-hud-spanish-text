@@ -48,7 +48,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [X] FIRETRK
 - [X] FTRAIN
 - [ ] GARAGE1
-- [ ] GARAGE2
+- [X] GARAGE2
 - [X] GRAV
 - [ ] GROVE1
 - [ ] GROVE2
