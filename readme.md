@@ -16,7 +16,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [X] CASINO1
 - [X] CASINO2
 - [X] CASINO3
-- [ ] CASINO4
+- [X] CASINO4
 - [X] CASINO5
 - [ ] CASINO6
 - [X] CASINO7
