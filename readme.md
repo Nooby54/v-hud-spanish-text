@@ -31,7 +31,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [X] DOC2
 - [X] DOCKCR
 - [X] DS
-- [ ] DSERT10
+- [X] DSERT10
 - [X] DSERT12
 - [ ] DSERT3
 - [X] DSERT4
