@@ -62,7 +62,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [ ] INTRO1
 - [ ] INTRO2
 - [X] KICKSTT
-- [ ] LAFIN1
+- [X] LAFIN1
 - [ ] LAFIN2
 - [X] LOWR
 - [ ] MAN_1
