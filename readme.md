@@ -33,7 +33,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [X] DS
 - [X] DSERT10
 - [X] DSERT12
-- [ ] DSERT3
+- [X] DSERT3
 - [X] DSERT4
 - [ ] DSERT5
 - [ ] DSERT6
