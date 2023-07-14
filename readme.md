@@ -2,130 +2,130 @@
 
 Descarga la carpeta text y pegala en tu directorio de GTA.
 
-- [X] MAIN
-- [X] AMBULAE
-- [X] BCESAR2
-- [X] BCSAR4
-- [X] BCOU
-- [X] BCRASH1
-- [X] BLOOD
-- [X] BOAT
-- [X] BS
-- [X] BURGLAR
-- [X] CASIN10
-- [X] CASINO1
-- [X] CASINO2
-- [X] CASINO3
-- [X] CASINO4
-- [X] CASINO5
-- [ ] CASINO6
-- [X] CASINO7
-- [X] CASINO9
+- [x] MAIN
+- [x] AMBULAE
+- [x] BCESAR2
+- [x] BCSAR4
+- [x] BCOU
+- [x] BCRASH1
+- [x] BLOOD
+- [x] BOAT
+- [x] BS
+- [x] BURGLAR
+- [x] CASIN10
+- [x] CASINO1
+- [x] CASINO2
+- [x] CASINO3
+- [x] CASINO4
+- [x] CASINO5
+- [x] CASINO6
+- [x] CASINO7
+- [x] CASINO9
 - [ ] CAT
-- [X] CESAR1
-- [X] CESAR2
-- [X] COPCAR
-- [X] CRASH1
-- [X] CRASH2
-- [X] CRASH3
-- [X] DOC2
-- [X] DOCKCR
-- [X] DS
-- [X] DSERT10
-- [X] DSERT12
-- [X] DSERT3
-- [X] DSERT4
+- [x] CESAR1
+- [x] CESAR2
+- [x] COPCAR
+- [x] CRASH1
+- [x] CRASH2
+- [x] CRASH3
+- [x] DOC2
+- [x] DOCKCR
+- [x] DS
+- [x] DSERT10
+- [x] DSERT12
+- [x] DSERT3
+- [x] DSERT4
 - [ ] DSERT5
-- [X] DSERT6
-- [X] DSERT7
+- [x] DSERT6
+- [x] DSERT7
 - [ ] DSERT8
-- [X] DSERT9
-- [X] DUAL
-- [X] FARLIE2
+- [x] DSERT9
+- [x] DUAL
+- [x] FARLIE2
 - [ ] FARLIE3
-- [X] FARLIE4
-- [X] FARLIE5
-- [X] FIRETRK
-- [X] FTRAIN
+- [x] FARLIE4
+- [x] FARLIE5
+- [x] FIRETRK
+- [x] FTRAIN
 - [ ] GARAGE1
-- [X] GARAGE2
-- [X] GRAV
+- [x] GARAGE2
+- [x] GRAV
 - [ ] GROVE1
-- [X] GROVE2
-- [X] GYM
+- [x] GROVE2
+- [x] GYM
 - [ ] HEIST1
-- [X] HEIST2
+- [x] HEIST2
 - [ ] HEIST3
-- [X] HEIST4
-- [X] HEIST5
+- [x] HEIST4
+- [x] HEIST5
 - [ ] HEIST9
 - [ ] INTRO1
 - [ ] INTRO2
-- [X] KICKSTT
-- [X] LAFIN1
+- [x] KICKSTT
+- [x] LAFIN1
 - [ ] LAFIN2
-- [X] LOWR
+- [x] LOWR
 - [ ] MAN_1
 - [ ] MAN_2
 - [ ] MAN_3
 - [ ] MAN_5
-- [X] MENU2P
-- [X] OTB
+- [x] MENU2P
+- [x] OTB
 - [ ] PIMP
-- [X] POOL
+- [x] POOL
 - [ ] QUARRY
-- [X] RACETOR
+- [x] RACETOR
 - [ ] RIOT1
 - [ ] RIOT2
-- [X] RIOT3
+- [x] RIOT3
 - [ ] RIOT4
-- [X] RUN_2P
+- [x] RUN_2P
 - [ ] RYDER1
 - [ ] RYDER2
-- [X] RYDER3
-- [X] SCRASH2
-- [X] SHTR
+- [x] RYDER3
+- [x] SCRASH2
+- [x] SHTR
 - [ ] SMOKE1
-- [X] SMOKE2
+- [x] SMOKE2
 - [ ] SMOKE3
 - [ ] SMOKE4
-- [X] STEAL1
+- [x] STEAL1
 - [ ] STEAL2
 - [ ] STEAL4
-- [X] STEAL5
+- [x] STEAL5
 - [ ] STRAP1
-- [X] STRAP2
-- [X] STRAP3
-- [X] STRAP4
-- [X] STUNT
-- [X] SWEET1
-- [X] SWEET1B
+- [x] STRAP2
+- [x] STRAP3
+- [x] STRAP4
+- [x] STUNT
+- [x] SWEET1
+- [x] SWEET1B
 - [ ] SWEET2
 - [ ] SWEET3
 - [ ] SWEET4
-- [X] SWEET5
+- [x] SWEET5
 - [ ] SWEET6
 - [ ] SWWET7
 - [ ] SYN1
 - [ ] SYN2
-- [X] SYN3
+- [x] SYN3
 - [ ] SYN4
 - [ ] SYN5
-- [X] SYN6
-- [X] SYN7
-- [X] TAXI1
-- [X] TORENO1
+- [x] SYN6
+- [x] SYN7
+- [x] TAXI1
+- [x] TORENO1
 - [ ] TORENO2
-- [X] TRU1
+- [x] TRU1
 - [ ] TRU2
-- [X] TRUCK
-- [X] VALET1
-- [X] VCR1
-- [X] VCR2
+- [x] TRUCK
+- [x] VALET1
+- [x] VCR1
+- [x] VCR2
 - [ ] WUZI1
 - [ ] WUZI2
 - [ ] WUZI4
-- [X] ZERO1
-- [X] ZERO2
-- [X] ZERO3
-- [X] ZERO4
+- [x] ZERO1
+- [x] ZERO2
+- [x] ZERO3
+- [x] ZERO4
