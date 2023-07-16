@@ -21,7 +21,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [x] CASINO6
 - [x] CASINO7
 - [x] CASINO9
-- [ ] CAT
+- [x] CAT
 - [x] CESAR1
 - [x] CESAR2
 - [x] COPCAR
