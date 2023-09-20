@@ -50,7 +50,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [X] GARAGE1
 - [x] GARAGE2
 - [x] GRAV
-- [ ] GROVE1
+- [X] GROVE1
 - [x] GROVE2
 - [x] GYM
 - [ ] HEIST1
