@@ -42,7 +42,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [x] DSERT9
 - [x] DUAL
 - [x] FARLIE2
-- [ ] FARLIE3
+- [X] FARLIE3
 - [x] FARLIE4
 - [x] FARLIE5
 - [x] FIRETRK
