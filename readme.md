@@ -60,7 +60,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [x] HEIST5
 - [ ] HEIST9
 - [ ] INTRO1
-- [ ] INTRO2
+- [X] INTRO2
 - [x] KICKSTT
 - [x] LAFIN1
 - [ ] LAFIN2
