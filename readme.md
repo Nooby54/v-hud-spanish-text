@@ -2,7 +2,7 @@
 
 Descarga la carpeta text y pegala en tu directorio de GTA.
 
-- [x] MAIN
+- :white_check_mark MAIN
 - [x] AMBULAE
 - [x] BCESAR2
 - [x] BCSAR4
@@ -62,8 +62,8 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [ ] INTRO1
 - [X] INTRO2
 - [x] KICKSTT
-- [x] LAFIN1
-- [ ] LAFIN2
+- [ ] LAFIN1
+- [X] LAFIN2
 - [x] LOWR
 - [ ] MAN_1
 - [ ] MAN_2
