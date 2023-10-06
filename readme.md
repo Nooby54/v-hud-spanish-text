@@ -3,129 +3,129 @@
 Descarga la carpeta text y pegala en tu directorio de GTA.
 
 :white_check_mark: MAIN
-- [x] AMBULAE
-- [x] BCESAR2
-- [x] BCSAR4
-- [x] BCOU
-- [x] BCRASH1
-- [x] BLOOD
-- [x] BOAT
-- [x] BS
-- [x] BURGLAR
-- [x] CASIN10
-- [x] CASINO1
-- [x] CASINO2
-- [x] CASINO3
-- [x] CASINO4
-- [x] CASINO5
-- [x] CASINO6
-- [x] CASINO7
-- [x] CASINO9
-- [x] CAT
-- [x] CESAR1
-- [x] CESAR2
-- [x] COPCAR
-- [x] CRASH1
-- [x] CRASH2
-- [x] CRASH3
-- [x] DOC2
-- [x] DOCKCR
-- [x] DS
-- [x] DSERT10
-- [x] DSERT12
-- [x] DSERT3
-- [x] DSERT4
-- [x] DSERT5
-- [x] DSERT6
-- [x] DSERT7
-- [x] DSERT8
-- [x] DSERT9
-- [x] DUAL
-- [x] FARLIE2
-- [X] FARLIE3
-- [x] FARLIE4
-- [x] FARLIE5
-- [x] FIRETRK
-- [x] FTRAIN
-- [X] GARAGE1
-- [x] GARAGE2
-- [x] GRAV
-- [X] GROVE1
-- [x] GROVE2
-- [x] GYM
-- [X] HEIST1
-- [x] HEIST2
-- [X] HEIST3
-- [x] HEIST4
-- [x] HEIST5
+:white_check_mark: AMBULAE
+:white_check_mark: BCESAR2
+:white_check_mark: BCSAR4
+:white_check_mark: BCOU
+:white_check_mark: BCRASH1
+:white_check_mark: BLOOD
+:white_check_mark: BOAT
+:white_check_mark: BS
+:white_check_mark: BURGLAR
+:white_check_mark: CASIN10
+:white_check_mark: CASINO1
+:white_check_mark: CASINO2
+:white_check_mark: CASINO3
+:white_check_mark: CASINO4
+:white_check_mark: CASINO5
+:white_check_mark: CASINO6
+:white_check_mark: CASINO7
+:white_check_mark: CASINO9
+:white_check_mark: CAT
+:white_check_mark: CESAR1
+:white_check_mark: CESAR2
+:white_check_mark: COPCAR
+:white_check_mark: CRASH1
+:white_check_mark: CRASH2
+:white_check_mark: CRASH3
+:white_check_mark: DOC2
+:white_check_mark: DOCKCR
+:white_check_mark: DS
+:white_check_mark: DSERT10
+:white_check_mark: DSERT12
+:white_check_mark: DSERT3
+:white_check_mark: DSERT4
+:white_check_mark: DSERT5
+:white_check_mark: DSERT6
+:white_check_mark: DSERT7
+:white_check_mark: DSERT8
+:white_check_mark: DSERT9
+:white_check_mark: DUAL
+:white_check_mark: FARLIE2
+:white_check_mark: FARLIE3
+:white_check_mark: FARLIE4
+:white_check_mark: FARLIE5
+:white_check_mark: FIRETRK
+:white_check_mark: FTRAIN
+:white_check_mark: GARAGE1
+:white_check_mark: GARAGE2
+:white_check_mark: GRAV
+:white_check_mark: GROVE1
+:white_check_mark: GROVE2
+:white_check_mark: GYM
+:white_check_mark: HEIST1
+:white_check_mark: HEIST2
+:white_check_mark: HEIST3
+:white_check_mark: HEIST4
+:white_check_mark: HEIST5
 - [ ] HEIST9
 - [ ] INTRO1
-- [X] INTRO2
-- [x] KICKSTT
+:white_check_mark: INTRO2
+:white_check_mark: KICKSTT
 - [ ] LAFIN1
-- [X] LAFIN2
-- [x] LOWR
+:white_check_mark: LAFIN2
+:white_check_mark: LOWR
 - [ ] MAN_1
 - [ ] MAN_2
 - [ ] MAN_3
 - [ ] MAN_5
-- [x] MENU2P
-- [x] OTB
+:white_check_mark: MENU2P
+:white_check_mark: OTB
 - [ ] PIMP
-- [x] POOL
+:white_check_mark: POOL
 - [ ] QUARRY
-- [x] RACETOR
+:white_check_mark: RACETOR
 - [ ] RIOT1
 - [ ] RIOT2
-- [x] RIOT3
+:white_check_mark: RIOT3
 - [ ] RIOT4
-- [x] RUN_2P
+:white_check_mark: RUN_2P
 - [ ] RYDER1
 - [ ] RYDER2
-- [x] RYDER3
-- [x] SCRASH2
-- [x] SHTR
+:white_check_mark: RYDER3
+:white_check_mark: SCRASH2
+:white_check_mark: SHTR
 - [ ] SMOKE1
-- [x] SMOKE2
+:white_check_mark: SMOKE2
 - [ ] SMOKE3
 - [ ] SMOKE4
-- [x] STEAL1
+:white_check_mark: STEAL1
 - [ ] STEAL2
 - [ ] STEAL4
-- [x] STEAL5
+:white_check_mark: STEAL5
 - [ ] STRAP1
-- [x] STRAP2
-- [x] STRAP3
-- [x] STRAP4
-- [x] STUNT
-- [x] SWEET1
-- [x] SWEET1B
+:white_check_mark: STRAP2
+:white_check_mark: STRAP3
+:white_check_mark: STRAP4
+:white_check_mark: STUNT
+:white_check_mark: SWEET1
+:white_check_mark: SWEET1B
 - [ ] SWEET2
 - [ ] SWEET3
 - [ ] SWEET4
-- [x] SWEET5
+:white_check_mark: SWEET5
 - [ ] SWEET6
 - [ ] SWWET7
 - [ ] SYN1
 - [ ] SYN2
-- [x] SYN3
+:white_check_mark: SYN3
 - [ ] SYN4
 - [ ] SYN5
-- [x] SYN6
-- [x] SYN7
-- [x] TAXI1
-- [x] TORENO1
+:white_check_mark: SYN6
+:white_check_mark: SYN7
+:white_check_mark: TAXI1
+:white_check_mark: TORENO1
 - [ ] TORENO2
-- [x] TRU1
+:white_check_mark: TRU1
 - [ ] TRU2
-- [x] TRUCK
-- [x] VALET1
-- [x] VCR1
-- [x] VCR2
+:white_check_mark: TRUCK
+:white_check_mark: VALET1
+:white_check_mark: VCR1
+:white_check_mark: VCR2
 - [ ] WUZI1
 - [ ] WUZI2
 - [ ] WUZI4
-- [x] ZERO1
-- [x] ZERO2
-- [x] ZERO3
-- [x] ZERO4
+:white_check_mark: ZERO1
+:white_check_mark: ZERO2
+:white_check_mark: ZERO3
+:white_check_mark: ZERO4
