@@ -58,73 +58,73 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 <br /> :white_check_mark: HEIST3
 <br /> :white_check_mark: HEIST4
 <br /> :white_check_mark: HEIST5
-<br /> :white_large_square:HEIST9
-<br /> :white_large_square:INTRO1
+<br /> :white_check_mark: HEIST9
+- [ ] INTRO1
 <br /> :white_check_mark: INTRO2
 <br /> :white_check_mark: KICKSTT
-<br /> :white_large_square:LAFIN1
+- [ ] LAFIN1
 <br /> :white_check_mark: LAFIN2
 <br /> :white_check_mark: LOWR
-<br /> :white_large_square:MAN_1
-<br /> :white_large_square:MAN_2
-<br /> :white_large_square:MAN_3
-<br /> :white_large_square:MAN_5
+- [ ] MAN_1
+- [ ] MAN_2
+- [ ] MAN_3
+- [ ] MAN_5
 <br /> :white_check_mark: MENU2P
 <br /> :white_check_mark: OTB
-<br /> :white_large_square:PIMP
+- [ ] PIMP
 <br /> :white_check_mark: POOL
-<br /> :white_large_square:QUARRY
+- [ ] QUARRY
 <br /> :white_check_mark: RACETOR
-<br /> :white_large_square:RIOT1
-<br /> :white_large_square:RIOT2
+- [ ] RIOT1
+- [ ] RIOT2
 <br /> :white_check_mark: RIOT3
-<br /> :white_large_square:RIOT4
+- [ ] RIOT4
 <br /> :white_check_mark: RUN_2P
-<br /> :white_large_square:RYDER1
-<br /> :white_large_square:RYDER2
+- [ ] RYDER1
+- [ ] RYDER2
 <br /> :white_check_mark: RYDER3
 <br /> :white_check_mark: SCRASH2
 <br /> :white_check_mark: SHTR
-<br /> :white_large_square:SMOKE1
+- [ ] SMOKE1
 <br /> :white_check_mark: SMOKE2
-<br /> :white_large_square:SMOKE3
-<br /> :white_large_square:SMOKE4
+- [ ] SMOKE3
+- [ ] SMOKE4
 <br /> :white_check_mark: STEAL1
-<br /> :white_large_square:STEAL2
-<br /> :white_large_square:STEAL4
+- [ ] STEAL2
+- [ ] STEAL4
 <br /> :white_check_mark: STEAL5
-<br /> :white_large_square:STRAP1
+- [ ] STRAP1
 <br /> :white_check_mark: STRAP2
 <br /> :white_check_mark: STRAP3
 <br /> :white_check_mark: STRAP4
 <br /> :white_check_mark: STUNT
 <br /> :white_check_mark: SWEET1
 <br /> :white_check_mark: SWEET1B
-<br /> :white_large_square:SWEET2
-<br /> :white_large_square:SWEET3
-<br /> :white_large_square:SWEET4
+- [ ] SWEET2
+- [ ] SWEET3
+- [ ] SWEET4
 <br /> :white_check_mark: SWEET5
-<br /> :white_large_square:SWEET6
-<br /> :white_large_square:SWWET7
-<br /> :white_large_square:SYN1
-<br /> :white_large_square:SYN2
+- [ ] SWEET6
+- [ ] SWWET7
+- [ ] SYN1
+- [ ] SYN2
 <br /> :white_check_mark: SYN3
-<br /> :white_large_square:SYN4
-<br /> :white_large_square:SYN5
+- [ ] SYN4
+- [ ] SYN5
 <br /> :white_check_mark: SYN6
 <br /> :white_check_mark: SYN7
 <br /> :white_check_mark: TAXI1
 <br /> :white_check_mark: TORENO1
-<br /> :white_large_square:TORENO2
+- [ ] TORENO2
 <br /> :white_check_mark: TRU1
-<br /> :white_large_square:TRU2
+- [ ] TRU2
 <br /> :white_check_mark: TRUCK
 <br /> :white_check_mark: VALET1
 <br /> :white_check_mark: VCR1
 <br /> :white_check_mark: VCR2
-<br /> :white_large_square:WUZI1
-<br /> :white_large_square:WUZI2
-<br /> :white_large_square:WUZI4
+- [ ] WUZI1
+- [ ] WUZI2
+- [ ] WUZI4
 <br /> :white_check_mark: ZERO1
 <br /> :white_check_mark: ZERO2
 <br /> :white_check_mark: ZERO3
