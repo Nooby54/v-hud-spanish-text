@@ -53,9 +53,9 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [X] GROVE1
 - [x] GROVE2
 - [x] GYM
-- [ ] HEIST1
+- [X] HEIST1
 - [x] HEIST2
-- [ ] HEIST3
+- [X] HEIST3
 - [x] HEIST4
 - [x] HEIST5
 - [ ] HEIST9
