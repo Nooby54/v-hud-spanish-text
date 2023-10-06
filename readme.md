@@ -2,7 +2,7 @@
 
 Descarga la carpeta text y pegala en tu directorio de GTA.
 
-- :white_check_mark MAIN
+:white_check_mark: MAIN
 - [x] AMBULAE
 - [x] BCESAR2
 - [x] BCSAR4
