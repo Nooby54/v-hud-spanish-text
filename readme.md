@@ -62,7 +62,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 <br /> :white_check_mark: INTRO1
 <br /> :white_check_mark: INTRO2
 <br /> :white_check_mark: KICKSTT
-- [ ] LAFIN1
+<br /> :white_check_mark: LAFIN1
 <br /> :white_check_mark: LAFIN2
 <br /> :white_check_mark: LOWR
 - [ ] MAN_1
