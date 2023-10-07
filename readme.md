@@ -59,7 +59,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 <br /> :white_check_mark: HEIST4
 <br /> :white_check_mark: HEIST5
 <br /> :white_check_mark: HEIST9
-- [ ] INTRO1
+<br /> :white_check_mark: INTRO1
 <br /> :white_check_mark: INTRO2
 <br /> :white_check_mark: KICKSTT
 - [ ] LAFIN1
