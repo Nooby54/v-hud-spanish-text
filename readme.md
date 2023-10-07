@@ -68,7 +68,7 @@ Descarga la carpeta text y pegala en tu directorio de GTA.
 - [ ] MAN_1
 - [ ] MAN_2
 <br /> :white_check_mark: MAN_3
-- [ ] MAN_5
+<br /> :white_check_mark: MAN_5
 <br /> :white_check_mark: MENU2P
 <br /> :white_check_mark: OTB
 - [ ] PIMP
